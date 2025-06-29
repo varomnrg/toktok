@@ -1,7 +1,7 @@
--- Database: toko_elektronik
+-- Database: toktok
 -- Create database
-CREATE DATABASE IF NOT EXISTS toko_elektronik;
-USE toko_elektronik;
+CREATE DATABASE IF NOT EXISTS toktok;
+USE toktok;
 
 -- Tabel untuk login admin
 CREATE TABLE IF NOT EXISTS users (
