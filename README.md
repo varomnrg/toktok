@@ -31,7 +31,7 @@ Toko Elektronik Website is a web application used to manage electronic product d
    DB_HOST=localhost
    DB_USER=root
    DB_PASS=your_password
-   DB_NAME=toko_elektronik
+   DB_NAME=toktok
    ```
 
 4. **Start the development server**
